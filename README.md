@@ -1,9 +1,9 @@
 # Hi there, I'm Salem Mohd
 
 <div align="center">
-<!--   <img src="https://avatars.githubusercontent.com/u/89180441?v=4" width="200" alt="Salem Mohd" style="border-radius: 50%; border: 4px solid #87CEEB;" /> -->
+  <img src="https://avatars.githubusercontent.com/u/89180441?v=4" width="200" alt="Salem Mohd" style="border-radius: 50%; border: 4px solid #87CEEB;" />
 
-  <h3 style="font-family: 'Times New Roman', Times, serif; font-size: 18px; color: #7BA05B;">Full Stack Developer • Data Analyst • Digital Solutions Consultant</h3>
+  <h3 style="font-family: 'Times New Roman', Times, serif; font-size: 18px; color: #7BA05B;">Full Stack Developer • Data Analyst • Digital Solutions Architect</h3>
 
   <p>
     <img src="https://img.shields.io/badge/Location_Irving,_Texas-87CEEB?style=flat-square&color=87CEEB" alt="Location" />
@@ -22,27 +22,25 @@
 
 <!-- Geometric Shape Divider -->
 <div align="center">
-  <svg width="100%" height="60" viewBox="0 0 1200 60" preserveAspectRatio="none">
-    <polygon points="0,0 1200,0 1100,60 100,60" fill="#7BA05B" opacity="0.3"/>
-    <polygon points="200,0 800,0 700,40 300,40" fill="#87CEEB" opacity="0.5"/>
-  </svg>
+  <div style="width: 80%; height: 3px; background: linear-gradient(45deg, #7BA05B, #87CEEB, #F4A460); margin: 20px auto; position: relative;">
+    <div style="width: 20px; height: 20px; background: #7BA05B; transform: rotate(45deg); position: absolute; left: 20%; top: -8px;"></div>
+    <div style="width: 15px; height: 15px; background: #87CEEB; border-radius: 50%; position: absolute; left: 50%; top: -6px;"></div>
+    <div style="width: 0; height: 0; border-left: 10px solid transparent; border-right: 10px solid transparent; border-bottom: 15px solid #F4A460; position: absolute; right: 20%; top: -12px;"></div>
+  </div>
 </div>
 
 ---
 
 ## <span style="font-family: 'Times New Roman', Times, serif; font-size: 18px; color: #7BA05B;">About Me</span>
 
-<!-- Right-side Starburst Shape -->
-<div style="position: relative;">
-  <div style="position: absolute; right: -50px; top: -20px; z-index: -1;">
-    <svg width="120" height="120" viewBox="0 0 120 120">
-      <polygon points="60,10 70,40 100,40 78,58 88,90 60,72 32,90 42,58 20,40 50,40" fill="#F4A460" opacity="0.6"/>
-    </svg>
-  </div>
+<!-- Right-side Geometric Shapes -->
+<div align="right" style="margin-bottom: 10px;">
+  <div style="display: inline-block; width: 25px; height: 25px; background: #F4A460; transform: rotate(45deg); margin: 5px;"></div>
+  <div style="display: inline-block; width: 20px; height: 20px; background: #87CEEB; border-radius: 50%; margin: 5px;"></div>
+  <div style="display: inline-block; width: 0; height: 0; border-left: 12px solid transparent; border-right: 12px solid transparent; border-bottom: 20px solid #7BA05B; margin: 5px;"></div>
+</div>
 
-  <div style="font-family: Arial, sans-serif; font-size: 14px; color: #8B4513;">
-
-> *"Code is my canvas, data is my brush, and scalable solutions are my masterpiece."*
+<div style="font-family: Arial, sans-serif; font-size: 14px; color: #8B4513;">> *"Code is my canvas, data is my brush, and scalable solutions are my masterpiece."*
 
 I'm a passionate **Full Stack Developer** with 5+ years of experience building enterprise solutions that serve **1,000+ users daily**. I specialize in creating robust web applications, automating complex business processes, and delivering impactful LMS platforms for government and enterprise clients.
 
@@ -61,10 +59,10 @@ const salem = {
 </div>
 
 <!-- Left-side Geometric Divider -->
-<div align="left">
-  <svg width="200" height="40" viewBox="0 0 200 40">
-    <polygon points="0,0 150,0 200,20 150,40 0,40" fill="#87CEEB" opacity="0.4"/>
-  </svg>
+<div align="left" style="margin: 20px 0;">
+  <div style="width: 40%; height: 2px; background: #87CEEB; position: relative;">
+    <div style="width: 0; height: 0; border-top: 8px solid transparent; border-bottom: 8px solid transparent; border-left: 15px solid #87CEEB; position: absolute; right: -15px; top: -7px;"></div>
+  </div>
 </div>
 
 ---
@@ -73,10 +71,11 @@ const salem = {
 
 <div style="position: relative;">
   <!-- Behind Hexagon Shape -->
-  <div style="position: absolute; left: 50%; top: 20px; transform: translateX(-50%); z-index: -1;">
-    <svg width="100" height="100" viewBox="0 0 100 100">
-      <polygon points="50,5 85,25 85,75 50,95 15,75 15,25" fill="#FFF8DC" opacity="0.8"/>
-    </svg>
+  <div align="center" style="margin: 15px 0;">
+    <div style="width: 60px; height: 35px; background: #FFF8DC; position: relative; margin: 20px auto;">
+      <div style="position: absolute; top: -17px; left: 0; width: 0; height: 0; border-left: 30px solid transparent; border-right: 30px solid transparent; border-bottom: 17px solid #FFF8DC;"></div>
+      <div style="position: absolute; bottom: -17px; left: 0; width: 0; height: 0; border-left: 30px solid transparent; border-right: 30px solid transparent; border-top: 17px solid #FFF8DC;"></div>
+    </div>
   </div>
 
   <div style="font-family: Arial, sans-serif; font-size: 14px; color: #8B4513;">
@@ -112,11 +111,12 @@ const salem = {
   </div>
 </div>
 
-<!-- Right-side Angular Shape -->
-<div align="right">
-  <svg width="150" height="50" viewBox="0 0 150 50">
-    <polygon points="0,25 30,0 120,0 150,25 120,50 30,50" fill="#F4A460" opacity="0.5"/>
-  </svg>
+<!-- Right-side Angular Shape with Geometric Pattern -->
+<div align="right" style="margin: 20px 0;">
+  <div style="width: 50%; height: 6px; background: linear-gradient(90deg, #F4A460, #87CEEB); background-image: repeating-linear-gradient(45deg, rgba(255,255,255,0.4) 0px, rgba(255,255,255,0.4) 1px, transparent 1px, transparent 8px); position: relative; border-radius: 3px;">
+    <div style="width: 0; height: 0; border-top: 12px solid transparent; border-bottom: 12px solid transparent; border-right: 24px solid #F4A460; position: absolute; left: -24px; top: -9px; filter: drop-shadow(2px 2px 4px rgba(0,0,0,0.1));"></div>
+    <div style="width: 15px; height: 15px; background: radial-gradient(circle, #F4A460, #87CEEB); transform: rotate(45deg); position: absolute; right: 20%; top: -4px; border-radius: 2px;"></div>
+  </div>
 </div>
 
 ---
@@ -124,60 +124,56 @@ const salem = {
 ## <span style="font-family: 'Times New Roman', Times, serif; font-size: 18px; color: #7BA05B;">Key Achievements</span>
 
 <div style="position: relative;">
-  <!-- Left-side Diamond Shape -->
-  <div style="position: absolute; left: -30px; top: 50px; z-index: -1;">
-    <svg width="80" height="80" viewBox="0 0 80 80">
-      <polygon points="40,5 75,40 40,75 5,40" fill="#87CEEB" opacity="0.6"/>
-    </svg>
+  <!-- Left-side Diamond Shape with Gradient Pattern -->
+  <div align="left" style="margin: 15px 0;">
+    <div style="width: 35px; height: 35px; background: linear-gradient(45deg, #87CEEB, #7BA05B); background-image: repeating-linear-gradient(90deg, rgba(255,255,255,0.3) 0px, rgba(255,255,255,0.3) 2px, transparent 2px, transparent 6px); transform: rotate(45deg); opacity: 0.8; border-radius: 4px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"></div>
   </div>
 
   <div style="font-family: Arial, sans-serif; font-size: 14px; color: #8B4513;">
 
 <div align="center">
-  <table style="background-color: #FFF8DC; border-radius: 10px; padding: 20px;">
+  <table style="background: #FFF8DC; background-image: repeating-linear-gradient(45deg, rgba(123,160,91,0.1) 0px, rgba(123,160,91,0.1) 2px, transparent 2px, transparent 20px), repeating-linear-gradient(-45deg, rgba(135,206,235,0.08) 0px, rgba(135,206,235,0.08) 1px, transparent 1px, transparent 25px); border-radius: 10px; padding: 20px; width: 100%;">
     <tr>
-      <td align="center">
+      <td align="center" width="33%" style="padding: 15px;">
         <img src="https://img.shields.io/badge/Enterprise_Users-1,000+-7BA05B?style=for-the-badge" alt="Users" />
-        <br>
+        <br><br>
         <strong style="color: #8B4513;">Daily Active Users</strong>
         <br>
-        <em style="color: #7BA05B;">LMS & .SCORM</em>
+        <em style="color: #7BA05B;">LMS & Web Applications</em>
       </td>
-      <td align="center">
+      <td align="center" width="33%" style="padding: 15px;">
         <img src="https://img.shields.io/badge/Government_Projects-Multiple-87CEEB?style=for-the-badge" alt="Gov Projects" />
-        <br>
+        <br><br>
         <strong style="color: #8B4513;">Government Clients</strong>
         <br>
         <em style="color: #7BA05B;">Large-scale Implementations</em>
       </td>
-      <td align="center">
-        
+      <td align="center" width="33%" style="padding: 15px;">
         <img src="https://img.shields.io/badge/Marketing_Companies-100+-F4A460?style=for-the-badge" alt="Marketing Scale" />
-        <br>
-        <strong style="color: #8B4513;">Enterprise Automation</strong>
+        <br><br>
+        <strong style="color: #8B4513;">Enterprise Marketing Automation</strong>
         <br>
         <em style="color: #7BA05B;">Alteryx Data Pipelines</em>
       </td>
     </tr>
     <tr>
-      <td align="center">
-              <img src="https://img.shields.io/badge/Process_Automation-100+-F4A460?style=for-the-badge" alt="Automation" />
-
-        <br>
-        <strong style="color: #8B4513;">Process Improvement</strong>
+      <td align="center" width="33%" style="padding: 15px;">
+        <img src="https://img.shields.io/badge/Process_Automation-80%25_Efficiency-F4A460?style=for-the-badge" alt="Automation" />
+        <br><br>
+        <strong style="color: #8B4513;">Business Process Improvement</strong>
         <br>
         <em style="color: #7BA05B;">AI-Powered Solutions</em>
       </td>
-      <td align="center">
+      <td align="center" width="33%" style="padding: 15px;">
         <img src="https://img.shields.io/badge/BDM_&_HR_Automation-Real--time-7BA05B?style=for-the-badge" alt="Team Automation" />
-        <br>
-        <strong style="color: #8B4513;">Google Apps Script</strong>
+        <br><br>
+        <strong style="color: #8B4513;">Google Sheets + Apps Script</strong>
         <br>
         <em style="color: #7BA05B;">Workflow Optimization</em>
       </td>
-      <td align="center">
+      <td align="center" width="33%" style="padding: 15px;">
         <img src="https://img.shields.io/badge/Data_Pipeline_Processing-1M+_Records-8B4513?style=for-the-badge" alt="Data Scale" />
-        <br>
+        <br><br>
         <strong style="color: #8B4513;">Enterprise Data Processing</strong>
         <br>
         <em style="color: #7BA05B;">Multi-source Integration</em>
@@ -189,11 +185,15 @@ const salem = {
   </div>
 </div>
 
-<!-- Behind Wave Shape -->
-<div align="center">
-  <svg width="100%" height="40" viewBox="0 0 1200 40" preserveAspectRatio="none">
-    <polygon points="0,40 300,0 600,40 900,0 1200,40 1200,40 0,40" fill="#7BA05B" opacity="0.3"/>
-  </svg>
+<!-- Behind Wave Shape with Geometric Background -->
+<div align="center" style="margin: 25px 0;">
+  <div style="width: 90%; height: 8px; background: linear-gradient(45deg, #7BA05B, #87CEEB); background-image: repeating-linear-gradient(90deg, rgba(255,255,255,0.3) 0px, rgba(255,255,255,0.3) 2px, transparent 2px, transparent 8px); position: relative; margin: 0 auto; border-radius: 4px;">
+    <div style="width: 20px; height: 20px; background: radial-gradient(circle, #7BA05B, #87CEEB); border-radius: 50%; position: absolute; left: 10%; top: -6px; opacity: 0.8;"></div>
+    <div style="width: 15px; height: 15px; background: linear-gradient(45deg, #87CEEB, #F4A460); transform: rotate(45deg); position: absolute; left: 30%; top: -3px; opacity: 0.9;"></div>
+    <div style="width: 25px; height: 25px; background: radial-gradient(circle, #F4A460, #7BA05B); border-radius: 50%; position: absolute; left: 50%; top: -8px; opacity: 0.7;"></div>
+    <div style="width: 18px; height: 18px; background: linear-gradient(-45deg, #7BA05B, #F4A460); transform: rotate(45deg); position: absolute; left: 70%; top: -5px; opacity: 0.8;"></div>
+    <div style="width: 22px; height: 22px; background: radial-gradient(circle, #87CEEB, #8B4513); border-radius: 50%; position: absolute; right: 10%; top: -7px; opacity: 0.6;"></div>
+  </div>
 </div>
 
 ---
@@ -201,44 +201,42 @@ const salem = {
 ## <span style="font-family: 'Times New Roman', Times, serif; font-size: 18px; color: #7BA05B;">Enterprise Automation Expertise</span>
 
 <div style="position: relative;">
-  <!-- Right-side Triangle Shape -->
-  <div style="position: absolute; right: -40px; top: 100px; z-index: -1;">
-    <svg width="100" height="100" viewBox="0 0 100 100">
-      <polygon points="50,10 90,80 10,80" fill="#F4A460" opacity="0.7"/>
-    </svg>
+  <!-- Right-side Triangle Shape with Gradient -->
+  <div align="right" style="margin: 15px 0;">
+    <div style="width: 40px; height: 40px; background: linear-gradient(135deg, #F4A460, #87CEEB); background-image: repeating-linear-gradient(45deg, rgba(255,255,255,0.2) 0px, rgba(255,255,255,0.2) 1px, transparent 1px, transparent 4px); clip-path: polygon(50% 0%, 0% 100%, 100% 100%); opacity: 0.8; filter: drop-shadow(2px 2px 4px rgba(0,0,0,0.1));"></div>
   </div>
 
   <div style="font-family: Arial, sans-serif; font-size: 14px; color: #8B4513;">
 
 <div align="center">
-  <table>
+  <table style="background: #FFF8DC; background-image: repeating-linear-gradient(30deg, rgba(244,164,96,0.12) 0px, rgba(244,164,96,0.12) 3px, transparent 3px, transparent 15px), repeating-linear-gradient(120deg, rgba(139,69,19,0.08) 0px, rgba(139,69,19,0.08) 2px, transparent 2px, transparent 30px); border-radius: 10px; padding: 20px; width: 100%;">
     <tr>
-      <td align="center" width="33%" style="background-color: #FFF8DC; border-radius: 15px; padding: 15px; margin: 10px;">
+      <td align="center" width="33%" style="padding: 15px;">
         <img src="https://img.shields.io/badge/Alteryx-87CEEB?style=for-the-badge&logo=alteryx&logoColor=white" alt="Alteryx" />
-        <br>
+        <br><br>
         <strong style="color: #8B4513;">Data Pipeline Automation</strong>
         <br>
-        <p style="color: #7BA05B;">• ETL workflows for 100+ marketing companies<br>
+        <em style="color: #7BA05B;">• ETL workflows for 100+ marketing companies<br>
         • Real-time data processing & transformation<br>
-        • Multi-source integration (CRM, Analytics, Social)</p>
+        • Multi-source integration (CRM, Analytics, Social)</em>
       </td>
-      <td align="center" width="33%" style="background-color: #FFF8DC; border-radius: 15px; padding: 15px; margin: 10px;">
+      <td align="center" width="33%" style="padding: 15px;">
         <img src="https://img.shields.io/badge/Google_Sheets-7BA05B?style=for-the-badge&logo=google-sheets&logoColor=white" alt="Google Sheets" />
-        <br>
+        <br><br>
         <strong style="color: #8B4513;">Smart Spreadsheet Solutions</strong>
         <br>
-        <p style="color: #7BA05B;">• Apps Script automation for BDM teams<br>
+        <em style="color: #7BA05B;">• Apps Script automation for BDM teams<br>
         • Lead tracking & assignment systems<br>
-        • Real-time reporting dashboards</p>
+        • Real-time reporting dashboards</em>
       </td>
-      <td align="center" width="33%" style="background-color: #FFF8DC; border-radius: 15px; padding: 15px; margin: 10px;">
+      <td align="center" width="33%" style="padding: 15px;">
         <img src="https://img.shields.io/badge/HR_Automation-F4A460?style=for-the-badge&logo=users&logoColor=white" alt="HR Automation" />
-        <br>
+        <br><br>
         <strong style="color: #8B4513;">HR Process Optimization</strong>
         <br>
-        <p style="color: #7BA05B;">• Automated candidate screening workflows<br>
+        <em style="color: #7BA05B;">• Automated candidate screening workflows<br>
         • Performance tracking systems<br>
-        • Integration with HRIS platforms</p>
+        • Integration with HRIS platforms</em>
       </td>
     </tr>
   </table>
@@ -247,11 +245,11 @@ const salem = {
   </div>
 </div>
 
-<!-- Left-side Pentagon Shape -->
-<div align="left">
-  <svg width="120" height="80" viewBox="0 0 120 80">
-    <polygon points="20,10 100,10 120,40 80,70 0,40" fill="#87CEEB" opacity="0.5"/>
-  </svg>
+<!-- Left-side Pentagon Shape with Geometric Pattern -->
+<div align="left" style="margin: 20px 0;">
+  <div style="width: 45px; height: 35px; background: linear-gradient(60deg, #87CEEB, #7BA05B); background-image: repeating-linear-gradient(30deg, rgba(255,255,255,0.3) 0px, rgba(255,255,255,0.3) 2px, transparent 2px, transparent 8px); position: relative; opacity: 0.8; border-radius: 3px; box-shadow: 0 3px 6px rgba(0,0,0,0.1);">
+    <div style="position: absolute; top: -18px; left: 50%; transform: translateX(-50%); width: 0; height: 0; border-left: 22px solid transparent; border-right: 22px solid transparent; border-bottom: 18px solid #87CEEB; filter: drop-shadow(0 2px 4px rgba(0,0,0,0.1));"></div>
+  </div>
 </div>
 
 ---
@@ -259,59 +257,57 @@ const salem = {
 ## <span style="font-family: 'Times New Roman', Times, serif; font-size: 18px; color: #7BA05B;">Featured Projects</span>
 
 <div style="position: relative;">
-  <!-- Behind Octagon Shape -->
-  <div style="position: absolute; left: 50%; top: 150px; transform: translateX(-50%); z-index: -1;">
-    <svg width="120" height="120" viewBox="0 0 120 120">
-      <polygon points="40,10 80,10 110,40 110,80 80,110 40,110 10,80 10,40" fill="#FFF8DC" opacity="0.9"/>
-    </svg>
+  <!-- Behind Octagon Shape with Advanced Geometric Pattern -->
+  <div align="center" style="margin: 15px 0;">
+    <div style="width: 55px; height: 55px; background: linear-gradient(45deg, #FFF8DC, #87CEEB); background-image: repeating-linear-gradient(0deg, rgba(123,160,91,0.2) 0px, rgba(123,160,91,0.2) 1px, transparent 1px, transparent 6px), repeating-linear-gradient(90deg, rgba(244,164,96,0.15) 0px, rgba(244,164,96,0.15) 1px, transparent 1px, transparent 8px); transform: rotate(45deg); opacity: 0.7; border: 2px solid rgba(123,160,91,0.3); border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);"></div>
   </div>
 
   <div style="font-family: Arial, sans-serif; font-size: 14px; color: #8B4513;">
 
 <div align="center">
-  <table>
+  <table style="background: #FFF8DC; background-image: repeating-linear-gradient(60deg, rgba(123,160,91,0.1) 0px, rgba(123,160,91,0.1) 1px, transparent 1px, transparent 12px), repeating-linear-gradient(0deg, rgba(135,206,235,0.06) 0px, rgba(135,206,235,0.06) 2px, transparent 2px, transparent 40px), repeating-linear-gradient(90deg, rgba(244,164,96,0.05) 0px, rgba(244,164,96,0.05) 1px, transparent 1px, transparent 35px); background-size: 40px 70px, 100% 100%, 100% 100%; border-radius: 10px; padding: 20px; width: 100%;">
     <tr>
-      <td width="50%" style="background-color: #FFF8DC; border-radius: 10px; padding: 20px; margin: 10px;">
-        <h3 align="center" style="color: #7BA05B;">Charity Directory</h3>
-        <div align="center">
-          <a href="https://github.com/salemmohdmohd/charity-directory" target="_blank">
-            <img src="https://img.shields.io/badge/GitHub-View_Code-87CEEB?style=for-the-badge&logo=GitHub" alt="GitHub" />
-          </a>
-          <p><strong style="color: #8B4513;">React • Node.js • AI Integration</strong></p>
-          <p style="color: #7BA05B;">Connecting people to local nonprofits with AI-powered discovery and SEO optimization. Features smart search algorithms and real-time charity verification.</p>
-        </div>
+      <td align="center" width="50%" style="padding: 15px;">
+        <h3 style="color: #7BA05B; margin: 10px 0;">Charity Directory</h3>
+        <a href="https://github.com/salemmohdmohd/charity-directory" target="_blank">
+          <img src="https://img.shields.io/badge/GitHub-View_Code-87CEEB?style=for-the-badge&logo=GitHub" alt="GitHub" />
+        </a>
+        <br><br>
+        <strong style="color: #8B4513;">React • Node.js • AI Integration</strong>
+        <br><br>
+        <em style="color: #7BA05B;">Connecting people to local nonprofits with AI-powered discovery and SEO optimization. Features smart search algorithms and real-time charity verification.</em>
       </td>
-      <td width="50%" style="background-color: #FFF8DC; border-radius: 10px; padding: 20px; margin: 10px;">
-        <h3 align="center" style="color: #7BA05B;">RPA-AI</h3>
-        <div align="center">
-          <a href="https://github.com/salemmohdmohd/RPA-AI" target="_blank">
-            <img src="https://img.shields.io/badge/GitHub-View_Code-F4A460?style=for-the-badge&logo=GitHub" alt="GitHub" />
-          </a>
-          <p><strong style="color: #8B4513;">Python • AI/ML • Automation</strong></p>
-          <p style="color: #7BA05B;">Intelligent business process automation using AI. Streamlines repetitive tasks and integrates with multiple enterprise systems.</p>
-        </div>
+      <td align="center" width="50%" style="padding: 15px;">
+        <h3 style="color: #7BA05B; margin: 10px 0;">RPA-AI</h3>
+        <a href="https://github.com/salemmohdmohd/RPA-AI" target="_blank">
+          <img src="https://img.shields.io/badge/GitHub-View_Code-F4A460?style=for-the-badge&logo=GitHub" alt="GitHub" />
+        </a>
+        <br><br>
+        <strong style="color: #8B4513;">Python • AI/ML • Automation</strong>
+        <br><br>
+        <em style="color: #7BA05B;">Intelligent business process automation using AI. Streamlines repetitive tasks and integrates with multiple enterprise systems.</em>
       </td>
     </tr>
     <tr>
-      <td width="50%" style="background-color: #FFF8DC; border-radius: 10px; padding: 20px; margin: 10px;">
-        <h3 align="center" style="color: #7BA05B;">Flask REST Auth</h3>
-        <div align="center">
-          <a href="https://github.com/4GeeksAcademy/salem-flask-rest-auth" target="_blank">
-            <img src="https://img.shields.io/badge/GitHub-View_Code-7BA05B?style=for-the-badge&logo=GitHub" alt="GitHub" />
-          </a>
-          <p><strong style="color: #8B4513;">Flask • JWT • Security</strong></p>
-          <p style="color: #7BA05B;">Secure authentication API with JWT tokens, password hashing, and role-based access control. Production-ready authentication solution.</p>
-        </div>
+      <td align="center" width="50%" style="padding: 15px;">
+        <h3 style="color: #7BA05B; margin: 10px 0;">Flask REST Auth</h3>
+        <a href="https://github.com/4GeeksAcademy/salem-flask-rest-auth" target="_blank">
+          <img src="https://img.shields.io/badge/GitHub-View_Code-7BA05B?style=for-the-badge&logo=GitHub" alt="GitHub" />
+        </a>
+        <br><br>
+        <strong style="color: #8B4513;">Flask • JWT • Security</strong>
+        <br><br>
+        <em style="color: #7BA05B;">Secure authentication API with JWT tokens, password hashing, and role-based access control. Production-ready authentication solution.</em>
       </td>
-      <td width="50%" style="background-color: #FFF8DC; border-radius: 10px; padding: 20px; margin: 10px;">
-        <h3 align="center" style="color: #7BA05B;">More Projects</h3>
-        <div align="center">
-          <a href="https://github.com/salemmohdmohd?tab=repositories" target="_blank">
-            <img src="https://img.shields.io/badge/GitHub-View_All-8B4513?style=for-the-badge&logo=GitHub" alt="All Repositories" />
-          </a>
-          <p><strong style="color: #8B4513;">Various Technologies</strong></p>
-          <p style="color: #7BA05B;">Explore my complete portfolio of web applications, data analysis projects, and automation tools.</p>
-        </div>
+      <td align="center" width="50%" style="padding: 15px;">
+        <h3 style="color: #7BA05B; margin: 10px 0;">More Projects</h3>
+        <a href="https://github.com/salemmohdmohd?tab=repositories" target="_blank">
+          <img src="https://img.shields.io/badge/GitHub-View_All-8B4513?style=for-the-badge&logo=GitHub" alt="All Repositories" />
+        </a>
+        <br><br>
+        <strong style="color: #8B4513;">Various Technologies</strong>
+        <br><br>
+        <em style="color: #7BA05B;">Explore my complete portfolio of web applications, data analysis projects, and automation tools.</em>
       </td>
     </tr>
   </table>
@@ -340,11 +336,6 @@ const salem = {
   </div>
 
   <div style="font-family: Arial, sans-serif; font-size: 14px; color: #8B4513;">
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=salemmohdmohd&show_icons=true&theme=graywhite&title_color=7BA05B&text_color=8B4513&bg_color=FFF8DC&icon_color=87CEEB&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salemmohdmohd&layout=compact&theme=graywhite&title_color=7BA05B&text_color=8B4513&bg_color=FFF8DC"/>
-</div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=salemmohdmohd&theme=graywhite&ring=7BA05B&fire=F4A460&currStreakLabel=8B4513&background=FFF8DC" alt="GitHub Streak" />
@@ -439,29 +430,21 @@ const salem = {
   <table>
     <tr>
       <td align="center" width="25%" style="background-color: #FFF8DC; border-radius: 10px; padding: 15px; margin: 5px;">
-        <img src="https://img.icons8.com/color/48/000000/controller.png" alt="Gaming" />
-        <br>
         <strong style="color: #7BA05B;">Gaming</strong>
         <br>
         <em style="color: #8B4513;">Strategy & RPG</em>
       </td>
       <td align="center" width="25%" style="background-color: #FFF8DC; border-radius: 10px; padding: 15px; margin: 5px;">
-        <img src="https://img.icons8.com/color/48/000000/digital-art.png" alt="Digital Art" />
-        <br>
         <strong style="color: #7BA05B;">Digital Art</strong>
         <br>
         <em style="color: #8B4513;">UI/UX Design</em>
       </td>
       <td align="center" width="25%" style="background-color: #FFF8DC; border-radius: 10px; padding: 15px; margin: 5px;">
-        <img src="https://img.icons8.com/color/48/000000/soccer-ball.png" alt="Soccer" />
-        <br>
         <strong style="color: #7BA05B;">Soccer</strong>
         <br>
         <em style="color: #8B4513;">Weekend Warrior</em>
       </td>
       <td align="center" width="25%" style="background-color: #FFF8DC; border-radius: 10px; padding: 15px; margin: 5px;">
-        <img src="https://img.icons8.com/color/48/000000/handshake.png" alt="Community" />
-        <br>
         <strong style="color: #7BA05B;">Community</strong>
         <br>
         <em style="color: #8B4513;">Open Source</em>
@@ -515,6 +498,5 @@ I'm always excited to work on:
 
   <div style="padding: 20px;">
     <p style="font-family: 'Times New Roman', Times, serif; font-size: 16px; color: #8B4513;"><em>"The best way to predict the future is to code it."</em></p>
-
   </div>
 </div>
