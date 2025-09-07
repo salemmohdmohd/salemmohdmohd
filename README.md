@@ -1,9 +1,9 @@
 # Hi there, I'm Salem Mohd
 
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/89180441?v=4" width="200" alt="Salem Mohd" style="border-radius: 50%; border: 4px solid #87CEEB;" />
+<!--   <img src="https://avatars.githubusercontent.com/u/89180441?v=4" width="200" alt="Salem Mohd" style="border-radius: 50%; border: 4px solid #87CEEB;" /> -->
 
-  <h3 style="font-family: 'Times New Roman', Times, serif; font-size: 18px; color: #7BA05B;">Full Stack Developer • Data Analyst • Digital Solutions Architect</h3>
+  <h3 style="font-family: 'Times New Roman', Times, serif; font-size: 18px; color: #7BA05B;">Full Stack Developer • Data Analyst • Digital Solutions Consultant</h3>
 
   <p>
     <img src="https://img.shields.io/badge/Location_Irving,_Texas-87CEEB?style=flat-square&color=87CEEB" alt="Location" />
@@ -141,7 +141,7 @@ const salem = {
         <br>
         <strong style="color: #8B4513;">Daily Active Users</strong>
         <br>
-        <em style="color: #7BA05B;">LMS & Web Applications</em>
+        <em style="color: #7BA05B;">LMS & .SCORM</em>
       </td>
       <td align="center">
         <img src="https://img.shields.io/badge/Government_Projects-Multiple-87CEEB?style=for-the-badge" alt="Gov Projects" />
@@ -151,25 +151,27 @@ const salem = {
         <em style="color: #7BA05B;">Large-scale Implementations</em>
       </td>
       <td align="center">
+        
         <img src="https://img.shields.io/badge/Marketing_Companies-100+-F4A460?style=for-the-badge" alt="Marketing Scale" />
         <br>
-        <strong style="color: #8B4513;">Enterprise Marketing Automation</strong>
+        <strong style="color: #8B4513;">Enterprise Automation</strong>
         <br>
         <em style="color: #7BA05B;">Alteryx Data Pipelines</em>
       </td>
     </tr>
     <tr>
       <td align="center">
-        <img src="https://img.shields.io/badge/Process_Automation-80%_Efficiency-F4A460?style=for-the-badge" alt="Automation" />
+              <img src="https://img.shields.io/badge/Process_Automation-100+-F4A460?style=for-the-badge" alt="Automation" />
+
         <br>
-        <strong style="color: #8B4513;">Business Process Improvement</strong>
+        <strong style="color: #8B4513;">Process Improvement</strong>
         <br>
         <em style="color: #7BA05B;">AI-Powered Solutions</em>
       </td>
       <td align="center">
         <img src="https://img.shields.io/badge/BDM_&_HR_Automation-Real--time-7BA05B?style=for-the-badge" alt="Team Automation" />
         <br>
-        <strong style="color: #8B4513;">Google Sheets + Apps Script</strong>
+        <strong style="color: #8B4513;">Google Apps Script</strong>
         <br>
         <em style="color: #7BA05B;">Workflow Optimization</em>
       </td>
@@ -514,6 +516,5 @@ I'm always excited to work on:
   <div style="padding: 20px;">
     <p style="font-family: 'Times New Roman', Times, serif; font-size: 16px; color: #8B4513;"><em>"The best way to predict the future is to code it."</em></p>
 
-    <p style="font-family: Arial, sans-serif; font-size: 12px; color: #7BA05B;"><strong>Pro tip:</strong> Star my repositories if you find them useful!</p>
   </div>
 </div>
