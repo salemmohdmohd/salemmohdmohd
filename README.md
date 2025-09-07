@@ -1,8 +1,8 @@
 # Hi there, I'm Salem Mohd
 
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/89180441?v=4" width="200" alt="Salem Mohd" style="border-radius: 50%; border: 4px solid #87CEEB;" />
-
+<!--   <img src="https://avatars.githubusercontent.com/u/89180441?v=4" width="200" alt="Salem Mohd" style="border-radius: 50%; border: 4px solid #87CEEB;" />
+ -->
   <h3 style="font-family: 'Times New Roman', Times, serif; font-size: 18px; color: #7BA05B;">Full Stack Developer • Data Analyst • Digital Solutions Architect</h3>
 
   <p>
@@ -40,9 +40,7 @@
   <div style="display: inline-block; width: 0; height: 0; border-left: 12px solid transparent; border-right: 12px solid transparent; border-bottom: 20px solid #7BA05B; margin: 5px;"></div>
 </div>
 
-<div style="font-family: Arial, sans-serif; font-size: 14px; color: #8B4513;">> *"Code is my canvas, data is my brush, and scalable solutions are my masterpiece."*
-
-I'm a passionate **Full Stack Developer** with 5+ years of experience building enterprise solutions that serve **1,000+ users daily**. I specialize in creating robust web applications, automating complex business processes, and delivering impactful LMS platforms for government and enterprise clients.
+**Full Stack Developer** with 5+ years of experience building enterprise solutions that serve **1,000+ users daily**. I specialize in creating robust web applications, automating complex business processes, and delivering impactful LMS platforms for government and enterprise clients.
 
 ```javascript
 const salem = {
@@ -216,8 +214,8 @@ const salem = {
         <br><br>
         <strong style="color: #8B4513;">Data Pipeline Automation</strong>
         <br>
-        <em style="color: #7BA05B;">• ETL workflows for 100+ marketing companies<br>
-        • Real-time data processing & transformation<br>
+        <em style="color: #7BA05B;">• ETL workflows <br>
+        • Real-time data processing<br>
         • Multi-source integration (CRM, Analytics, Social)</em>
       </td>
       <td align="center" width="33%" style="padding: 15px;">
@@ -297,7 +295,7 @@ const salem = {
         <br><br>
         <strong style="color: #8B4513;">Flask • JWT • Security</strong>
         <br><br>
-        <em style="color: #7BA05B;">Secure authentication API with JWT tokens, password hashing, and role-based access control. Production-ready authentication solution.</em>
+        <em style="color: #7BA05B;">Secure authentication API with JWT tokens, password hashing, and role-based access control.</em>
       </td>
       <td align="center" width="50%" style="padding: 15px;">
         <h3 style="color: #7BA05B; margin: 10px 0;">More Projects</h3>
